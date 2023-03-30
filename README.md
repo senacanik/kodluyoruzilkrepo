@@ -7,11 +7,7 @@ Bu repo [Kodluyoruz](https://www.patika.dev/tr) Front-End Eğitiminde oluşturdu
 > https://github.com/senacanik/kodluyoruzilkrepo.git
 
 ## Usage
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-> https://github.com/senacanik/kodluyoruzilkrepo.git
-
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
 Linux için:
 > cd kodluyoruzilkrepo 
 >
